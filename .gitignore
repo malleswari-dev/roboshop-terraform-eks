@@ -3,7 +3,7 @@
 .terraform.lock.hcl # Include this if you want to ensure specific provider versions across environments
 *.tfstate
 *.tfstate.*.backup
-*.tfvars
+# *.tfvars
 *.tfvars.json
 *.plan
 .terraformrc
